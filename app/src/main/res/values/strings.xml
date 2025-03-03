@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="true_button">Verdadero</string>
+    <string name="false_button">Falso</string>
+    <string name="next_button">Siguiente</string>
+
+    <!-- Preguntas -->
+    <string name="question1">¿Te gusta la programación?</string>
+    <string name="question2">¿Prefieres Android sobre iOS?</string>
+    <string name="question3">¿Sabes usar Kotlin?</string>
+
+    <!-- Respuestas para los Toast -->
+    <string name="answer1_true">¡Correcto! Te gusta la programación.</string>
+    <string name="answer1_false">¡Incorrecto! Tal vez no sea lo tuyo.</string>
+
+    <string name="answer2_true">¡Bien! Eres team Android.</string>
+    <string name="answer2_false">¡Oh no! Parece que prefieres iOS.</string>
+
+    <string name="answer3_true">¡Genial! Eres un desarrollador Kotlin.</string>
+    <string name="answer3_false">¡Aún puedes aprender! Kotlin es increíble.</string>
+</resources>
