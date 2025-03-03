@@ -5,7 +5,6 @@ import android.widget.Button
 import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.martinez_orozco.martinez_orozco_e1quizapp2.R
 
 class MainActivity : AppCompatActivity() {
 
